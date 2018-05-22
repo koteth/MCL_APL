@@ -5,7 +5,7 @@ This is a implementation of the algorithm MCL (more details [here](https://mican
 The target of the MCL algorithm is to find clusters of nodes in a network.
 The main idea is that che nodes more conected are likely to belongs at the same community.
 
-![MCL](cluster 1.6.png) 
+![MCL](cluster_1.6.png) 
 
 In order to find clusters, MCL uses the simple idea of the random walk.
 The idea is that if a random walk is started in a certain node and jump in a new edge n times randomly (using the weight of the edges as probabiliy coefficient), the probabily to be in a node in the same community of the starting node is high.
