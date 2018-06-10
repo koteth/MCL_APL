@@ -69,6 +69,5 @@ where each row is \[vector i, cluster of vector i\]
  
        ClustMap ← ⌽↑⍸R
 
-If you are an APL expert, please feel free to improve my code and to tell me (nicely) if I've done huge mistakes.
 
 
